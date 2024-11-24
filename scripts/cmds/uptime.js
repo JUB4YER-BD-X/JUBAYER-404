@@ -84,7 +84,7 @@ module.exports = {
 
     onStart: async function ({ api, event, usersData, threadsData }) {
 
-        const botName = config.nickNameBot || "☞︎︎︎✍︎ 𝐓𝐀𝐌𝐈𝐌 ✿︎𝙱☺︎︎𝚃 ♕︎"; // Fetching from config
+        const botName = config.nickNameBot || "☞︎︎︎✍︎ 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐉𝐔𝐁𝐀𝐘𝐄𝐑 ✿︎𝙱☺︎︎𝚃 ♕︎"; // Fetching from config
 
         const botPrefix = config.prefix || "/";
 
