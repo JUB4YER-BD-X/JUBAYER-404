@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "গোয়া-মারা-বট",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100092747803433",
     ""
   ],
   "OWNER": ["100000959749712"], 
